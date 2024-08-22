@@ -1,5 +1,3 @@
-`
-
 # Your Car Your Way - POC
 
 Ce projet est un Proof of Concept (POC) pour l'application Your Car Your Way. Il s'agit d'un monorepo contenant les fonctionnalités de base pour l'inscription, la connexion, et le chat en direct entre les utilisateurs.
@@ -25,7 +23,7 @@ Clonez ce dépôt sur votre machine locale :
 
 ```
 git clone https://github.com/Shiffff/lastOC.git
-cd your-car-your-way-poc
+cd lastOC
 ```
 
 ## Configuration des variables d'environnement
@@ -43,10 +41,10 @@ NODE_ENV=development
 
 ### Back-end :
 
-Naviguez vers le dossier back/ :
+Naviguez vers le dossier backend/ :
 
 ```
-cd back
+cd backend
 ```
 
 Installez les dépendances :
@@ -57,10 +55,10 @@ npm install
 
 ### Front-end :
 
-Naviguez vers le dossier front/ :
+Naviguez vers le dossier frontend/ :
 
 ```
-cd ../front
+cd ../frontend
 ```
 
 Installez les dépendances :
@@ -69,11 +67,19 @@ Installez les dépendances :
 npm install
 ```
 
+### Dépendances communes :
+
+A la racine du monorepo:
+
+```
+npm i
+```
+
 ## Lancement du projet
 
 ### Back-end
 
-Pour démarrer le serveur back-end, exécutez la commande suivante dans le dossier back/ :
+Pour démarrer le serveur back-end, exécutez la commande suivante dans le dossier backend/ :
 
 ```
 npm run server
@@ -81,7 +87,7 @@ npm run server
 
 ### Front-end
 
-Pour démarrer l'application front-end, exécutez la commande suivante dans le dossier front/ :
+Pour démarrer l'application front-end, exécutez la commande suivante dans le dossier frontend/ :
 
 ```
 npm run dev
