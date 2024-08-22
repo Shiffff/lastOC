@@ -21,6 +21,10 @@ const userSchema = new mongoose.Schema(
       required: true,
       enum: ["male", "female"],
     },
+    isAdmin: {
+      type: Boolean,
+      default: false,
+    },
     profilePic: {
       type: String,
       default: "",

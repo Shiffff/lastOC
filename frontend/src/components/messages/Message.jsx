@@ -15,11 +15,22 @@ const Message = ({ message }) => {
 
   const shakeClass = message.shouldShake ? "shake" : "";
 
+  console.log("selectedConversation :", selectedConversation);
+  console.log("message :", message);
+
+  const shouldDisplayMessage =
+    selectedConversation._id === message.senderId ||
+    selectedConversation._id === message.receiverId;
+
+  if (!shouldDisplayMessage) {
+    return null;
+  }
+
   return (
     <div className={`chat ${chatClassName}`}>
       <div className="chat-image avatar">
         <div className="w-10 rounded-full">
-          <img alt="Tailwind CSS chat bubble component" src={profilePic} />
+          <img alt="Profile" src={profilePic} />
         </div>
       </div>
       <div
