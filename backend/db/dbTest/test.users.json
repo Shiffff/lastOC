@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "66b7a6ecef2fa4ae7a541d80"
+  },
+  "fullName": "test1",
+  "username": "test1",
+  "password": "$2a$10$VBot8HEtfpsn2Cg0u7zUNO6v8jxMqJuWz1fkWSNq3F.5JrMvgls9e",
+  "gender": "male",
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=test1",
+  "createdAt": {
+    "$date": "2024-08-10T17:44:12.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T17:44:12.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7a6feef2fa4ae7a541d8b"
+  },
+  "fullName": "test2",
+  "username": "test2",
+  "password": "$2a$10$WuV0RYz5DUGHOutAW9iasOsXRYsrNpyqq0Vbhpuz1VQDgg3tb3/9q",
+  "gender": "female",
+  "profilePic": "https://avatar.iran.liara.run/public/girl?username=test2",
+  "createdAt": {
+    "$date": "2024-08-10T17:44:30.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T17:44:30.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8eec3f83d9103c1e3e522"
+  },
+  "fullName": "test3",
+  "username": "test3",
+  "password": "$2a$10$v6jGWsseKdIzw/FdRz6DX.wFJA3zjWK1DJzgbMwDoMEh2G0uOHRo6",
+  "gender": "female",
+  "isAdmin": true,
+  "profilePic": "https://avatar.iran.liara.run/public/girl?username=test3",
+  "createdAt": {
+    "$date": "2024-08-11T17:02:59.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T17:02:59.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8efcd32b65d83e379ab23"
+  },
+  "fullName": "test4",
+  "username": "test4",
+  "password": "$2a$10$PAxAtwzn6qUN0.l6UpgUMOpkDRJuAL9u/pyz8qgD8GsdBmPg4apYG",
+  "gender": "male",
+  "isAdmin": false,
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=test4",
+  "createdAt": {
+    "$date": "2024-08-11T17:07:25.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T17:07:25.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8fba62a288bc8faf36e91"
+  },
+  "fullName": "test6",
+  "username": "test6",
+  "password": "$2a$10$A0knb4C879cwscWUP8QHBeSpGR4aF5CPiJ8ko4ZTzDvjTSupqR2EG",
+  "gender": "male",
+  "isAdmin": false,
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=test6",
+  "createdAt": {
+    "$date": "2024-08-11T17:57:58.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T17:57:58.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b8fbb02a288bc8faf36e9c"
+  },
+  "fullName": "test7",
+  "username": "test7",
+  "password": "$2a$10$9HOWqSfirRO51WGBQBXMde8QwHWDktM.mBzA50Dxxn06cDIJwsIjC",
+  "gender": "female",
+  "isAdmin": false,
+  "profilePic": "https://avatar.iran.liara.run/public/girl?username=test7",
+  "createdAt": {
+    "$date": "2024-08-11T17:58:08.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-11T17:58:08.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c354e1663e2d35d8709ff9"
+  },
+  "fullName": "admin",
+  "username": "admin",
+  "password": "$2a$10$PpDKo76TnW6iqo06mB.x7uN/STPzd3A6IDyC0S7bXGmaFSTst8etC",
+  "gender": "male",
+  "isAdmin": true,
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=admin",
+  "createdAt": {
+    "$date": "2024-08-19T14:21:21.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T14:21:21.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c76617e7efc7bf4a3fc4ec"
+  },
+  "fullName": "test8",
+  "username": "test8",
+  "password": "$2a$10$jReiwzN4n2MQzdPyTA14UOtA4RbxL.Ba3x73qSKDue.GErA5yxSmK",
+  "gender": "male",
+  "isAdmin": false,
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=test8",
+  "createdAt": {
+    "$date": "2024-08-22T16:23:51.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T16:23:51.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c7668be7efc7bf4a3fc511"
+  },
+  "fullName": "Paul",
+  "username": "Oui",
+  "password": "$2a$10$t61PmJzsd8GEexcr1x3Q/uLOyVf7n1Z0vyL7KSxspqenwDx3dnjmG",
+  "gender": "male",
+  "isAdmin": false,
+  "profilePic": "https://avatar.iran.liara.run/public/boy?username=Oui",
+  "createdAt": {
+    "$date": "2024-08-22T16:25:47.657Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T16:25:47.657Z"
+  },
+  "__v": 0
+}]

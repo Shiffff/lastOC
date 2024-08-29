@@ -98,7 +98,7 @@ npm run dev
 Inscription et Connexion : Permet aux utilisateurs de s'inscrire et de se connecter à l'application.
 Chat en Direct : Les utilisateurs peuvent envoyer et recevoir des messages en temps réel.
 
-## Afin d'accéder a toute l'application, il vous faudra passer un utilisateur en admin:true dans votre db
+## Afin d'accéder a toute l'application, il vous faudra passer un utilisateur en admin:true dans votre db ou utiliser le fichier JSON présent dans backend/db/dbTest/tesT.users.json
 
 ## Technologies utilisées
 
